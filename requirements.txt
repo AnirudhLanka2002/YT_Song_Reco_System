@@ -5,4 +5,3 @@ opencv-python-headless
 tensorflow
 numpy
 mediapipe
-webbrowser

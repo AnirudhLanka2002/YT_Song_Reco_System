@@ -1,8 +1,6 @@
 streamlit-webrtc
 streamlit
 opencv-python
-av
-webbrowser
 tensorflow
 numpy
 mediapipe

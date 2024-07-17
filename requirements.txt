@@ -4,4 +4,5 @@ tensorflow
 scikit-learn
 numpy
 mediapipe
+opencv-python
 opencv-python-headless
